@@ -1,0 +1,1 @@
+effect give @a jump_boost 1 20 true
